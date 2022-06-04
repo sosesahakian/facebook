@@ -4,6 +4,7 @@ import{
     ShoppingBagIcon,
     UserGroupIcon,
 } from '@heroicons/react/outLine';
+import { ChevronUpIcon } from '@heroicons/react/outLine';
 import {
     CalendarIcon,
     ClockIcon,
